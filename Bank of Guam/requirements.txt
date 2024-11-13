@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+PyPDF2
+pdf2image
+openpyxl
+requests
